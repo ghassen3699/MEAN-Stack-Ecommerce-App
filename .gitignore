@@ -1,0 +1,14 @@
+# Node.js related
+node_modules/
+npm-debug.log
+
+# Angular related
+/dist/
+/e2e/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
