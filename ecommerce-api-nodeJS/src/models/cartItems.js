@@ -12,7 +12,7 @@ const cartItemsSchema = new mongoose.Schema({
         required: true
     },
     size: {
-        type: string,
+        type: String,
         required: true
     },
     quantity: {

@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-
 const MONGODB_URL = `mongodb+srv://ghassenkhamassi:ghassenTekup@cluster0.olvrldg.mongodb.net/?retryWrites=true&w=majority`;
 
 const connectDB = () => {
